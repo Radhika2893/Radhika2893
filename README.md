@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radhika2893.
-- 👀 I’m interested in Web Development.
+- 👀 I’m a Web Developer.
 - 🌱 I’m currently learning Web Development with the latest technologies like react.js and node.js.
 - 💞️ I’m looking to collaborate on the same as I described.
 - 📫 How to reach me : you may reach me out here
