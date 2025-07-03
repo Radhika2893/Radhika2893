@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radhika2893.
-- 👀 I’m a Web Developer.
-- 🌱 I’m currently learning Web Development with the latest technologies like react.js and node.js.
+- 👀 I’m a Full Stack-Web Developer.
+- 🌱 I’m currently learning the latest technologies like react.js and node.js.
 - 💞️ I’m looking to collaborate on the same as I described.
 - 📫 How to reach me : you may reach me out here
 - 😄 Pronouns:she/her
